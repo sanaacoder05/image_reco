@@ -1,0 +1,13 @@
+body {
+    background-color :burlywood;
+color:darkred;
+}
+
+#lightscamaction{
+    border: 2px ;
+    border-style: double;
+    border-color:blueviolet;
+}
+#Accuracy,#obj_name,#name_of_objects{
+color:gold;
+}
